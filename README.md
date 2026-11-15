@@ -10,7 +10,7 @@
 ## 🔗 Enlaces Oficiales del Proyecto
 * 📂 **Repositorio Público en GitHub:** `https://github.com/KratosTechRD/proyecto-veterinaria-ia`
 * 🌐 **URL Pública en GitHub Pages:** `https://kratostechrd.github.io/proyecto-veterinaria-ia/`
-* ▲ **URL Pública en Vercel:** `https://proyecto-veterinaria-ia.vercel.app/`
+* ▲ **URL Pública en Vercel:** `https://proyecto-veterinaria-ia-delta.vercel.app/`
 
 ---
 
